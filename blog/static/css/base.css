@@ -19,8 +19,9 @@ header h1 a {
 }
 
 .nav-right {
-    display: flex;
+    padding-left: 70%;
     padding-top: 2rem;
+    padding-right: 10px;
 }
 
 .post-entry {
