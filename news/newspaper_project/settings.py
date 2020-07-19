@@ -24,6 +24,7 @@ INSTALLED_APPS = [
     # local
     'users',
     'pages',
+    'articles',
 
     # 3rd party
     'crispy_forms',
