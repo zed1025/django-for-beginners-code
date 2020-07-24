@@ -1,3 +1,5 @@
+*.pyc
+__pycache
 .vscode/
 venv_script
 .DS_Store
